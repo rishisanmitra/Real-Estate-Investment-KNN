@@ -59,7 +59,7 @@ I compared three model configurations:
 While accuracy dipped slightly when optimizing for recall, the **improvement in sensitivity (0.71)** made the model more effective at catching premium-value properties — the ones that matter most to investors.  
 In practice, this means fewer missed opportunities and more confident investment screening.
 
-![KNN Tuning Plot](visuals/tune_knn_plot.png)
+![KNN Tuning Plot](Visuals/tune_knn_plot.png)
 
 ---
 
